@@ -100,7 +100,7 @@
 
 ## Figmaリンク
 
-[👉 Figmaデザインファイルを見る](#) ← リンク追加予定
+[👉 Figmaデザインファイルを見る](https://www.figma.com/design/Z7Q5PiHurHuyHx2e6q9Sta/%EC%A0%9C%EB%AA%A9-%EC%97%86%EC%9D%8C?node-id=0-1&t=SAxv1EhwbdxVeeYy-1)
 
 ---
 
