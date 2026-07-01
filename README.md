@@ -56,7 +56,7 @@
 
 10秒の音声診断でユーザーの現在地を把握し、パーソナライズされた学習プランを提示します。
 
-![診断画面](./screens/01_onboarding.png)
+<img width="406" height="874" alt="Image" src="https://github.com/user-attachments/assets/316e25ec-1ab8-48ac-91be-f82326508d0d" />
 
 **設計の意図**
 
@@ -68,7 +68,7 @@
 
 学習の成果をXP・レベル・ストリーク・週間ランキングで見える化します。
 
-![ダッシュボード](./screens/02_dashboard.png)
+<img width="408" height="874" alt="Image" src="https://github.com/user-attachments/assets/72cefb95-3890-480a-9946-dffdec20361c" />
 
 **設計の意図**
 
@@ -80,7 +80,7 @@
 
 状況別のロールプレイで実践的な会話を練習しながら、AIからその場でフィードバックを受けられます。
 
-![AI会話](./screens/03_ai_chat.png)
+<img width="402" height="874" alt="Image" src="https://github.com/user-attachments/assets/606ecea9-469d-443f-917a-d8c0c23f5947" />
 
 **設計の意図**
 
